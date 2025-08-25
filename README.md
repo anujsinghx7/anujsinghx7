@@ -8,17 +8,17 @@
 ---
 
 ## 👀 Interests
-- Competitive Programming  
-- Backend Development  
-- Open Source Contributions  
-- System Design & Architecture  
+  Competitive Programming  
+  Backend Development  
+  Open Source Contributions  
+  System Design & Architecture  
 
 ---
 
 ## 🤝 Let’s Collaborate!
-I'm open to working on **any type of project** where I can learn and contribute — whether it's a startup idea, an open-source project, or just a fun experiment.
+I'm open to working on **any type of project** where I can learn and contribute,whether it is a startup idea, an open-source project, or just a fun experiment.
 
----
+--
 
 ## 📫 Reach Out to Me
 - 🌐 [Linktree (All my links)](https://linktr.ee/anujsinghx7)
